@@ -1,0 +1,1 @@
+mongodb+srv://bks775:Bhairav2702@myapi.6uai4rn.mongodb.net/?retryWrites=true&w=majority
